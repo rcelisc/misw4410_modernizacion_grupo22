@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34202.233
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Worker_Policy_Analist", "Worker_Policy_Analist\Worker_Policy_Analist.csproj", "{55CAECA5-7A8F-4730-8EC2-5DD5C5334767}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Elementos de la solución", "Elementos de la solución", "{BF514C7B-04B6-4173-A8D1-CDBBDB61EB47}"
+	ProjectSection(SolutionItems) = preProject
+		AppDbContext.cs = AppDbContext.cs
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{55CAECA5-7A8F-4730-8EC2-5DD5C5334767}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55CAECA5-7A8F-4730-8EC2-5DD5C5334767}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55CAECA5-7A8F-4730-8EC2-5DD5C5334767}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55CAECA5-7A8F-4730-8EC2-5DD5C5334767}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {55CABF8C-1D5E-4425-B519-29B8A1C5E28F}
+	EndGlobalSection
+EndGlobal

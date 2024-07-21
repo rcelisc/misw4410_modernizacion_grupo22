@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Miso_Uniandes\\Ciclo_9\\Modernizacion_Software\\SoftwareModerno\\Worker_Policy_Analist\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{55CAECA5-7A8F-4730-8EC2-5DD5C5334767}|Worker_Policy_Analist\\Worker_Policy_Analist.csproj|d:\\miso_uniandes\\ciclo_9\\modernizacion_software\\softwaremoderno\\worker_policy_analist\\worker_policy_analist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55CAECA5-7A8F-4730-8EC2-5DD5C5334767}|Worker_Policy_Analist\\Worker_Policy_Analist.csproj|solutionrelative:worker_policy_analist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:11:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Miso_Uniandes\\Ciclo_9\\Modernizacion_Software\\SoftwareModerno\\Worker_Policy_Analist\\Worker_Policy_Analist\\Program.cs",
+              "RelativeDocumentMoniker": "Worker_Policy_Analist\\Program.cs",
+              "ToolTip": "D:\\Miso_Uniandes\\Ciclo_9\\Modernizacion_Software\\SoftwareModerno\\Worker_Policy_Analist\\Worker_Policy_Analist\\Program.cs",
+              "RelativeToolTip": "Worker_Policy_Analist\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-21T00:15:42.517Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
